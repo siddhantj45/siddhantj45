@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Siddhant Jaiswal @siddhantj45
-- 💞️ I’m looking to collaborate on Procure 2 Pay software
-- 📫 You can reach me at siddhant@procflo.com
-- ⛳ You can follow me on LinkedIn - linkedin.com/in/siddhant-jaiswal
+- 📈 Currently pursuing Masters in Computer Science at The University of North Carolina at Charlotte.
+- 📫 You can reach me at hi@siddhant.work
+- ⛳ Connect with me on Linkedin - linkedin.com/in/siddhant-jaiswal
