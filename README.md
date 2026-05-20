@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Siddhant Jaiswal @siddhantj45
-- 📈 Currently pursuing Masters in Computer Science at The University of North Carolina at Charlotte.
+- 📈 Master's in Computer Science at The University of North Carolina at Charlotte.
 - 📫 You can reach me at hi@siddhant.work
 - ⛳ Connect with me on [LinkedIn](https://www.linkedin.com/in/siddhant-jaiswal)
